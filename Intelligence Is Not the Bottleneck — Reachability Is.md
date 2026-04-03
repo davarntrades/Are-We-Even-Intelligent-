@@ -42,7 +42,11 @@ The Morrison Framework separates two properties that most models conflate:
   A system can have high I(t) and restricted ℛ(t).
   A system can have moderate I(t) and expansive ℛ(t).
 
-  Outcomes are determined by ℛ, not I alone.
+  Outcomes = f(ℛ(t), I(t), Λ)
+
+  ℛ(t) defines the ceiling of outcomes.
+  I(t) determines how efficiently that ceiling is explored.
+  Λ determines whether gains persist.
 
   Both are necessary, but only one defines what is possible.
 
@@ -140,7 +144,13 @@ The Morrison Orthogonality Law (C ⊥ L) predicts this precisely.
 ════════════════════════════════════════════════════════════
 ```
 
-Arguments operate on L. Structure lives on C. These axes are orthogonal. No amount of movement along L produces movement in C.
+Arguments operate on L. Structure lives in C. These axes are orthogonal in the absence of state transition. Language can affect structure — but only when it induces a trajectory change in the system’s dynamics. Otherwise:
+
+```
+L ↑  while  C = constant
+```
+
+L → C only if the linguistic input triggers a reachable state transition. Without that transition, more language produces more reinterpretation, not more structural change.
 
 This is why political debate does not change minds. This is why explaining the answer does not produce understanding. This is why telling someone they are wrong strengthens their position rather than weakening it.
 
